@@ -1,0 +1,255 @@
+.carrito-izquierda {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-left: auto;
+}
+
+.btn-secondary:hover{
+	color: red;
+}
+
+label, h2 {
+	color: #fff;
+}
+.label-letra_Negra{
+	color: black;
+}
+.centrar{
+    text-align: center;
+    vertical-align: middle;
+}
+*{	
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+/*Cards*/
+.container-card{
+	width: 100%;
+	display: flex;
+	max-width: 1100px;
+	margin: auto;
+}
+.title-cards{
+	width: 100%;
+	max-width: 1080px;
+	margin: auto;
+	padding: 20px;
+	margin-top: 20px;
+	text-align: center;
+	color: #7a7a7a;
+}
+.card{
+	width: 100%;
+	margin: 20px;
+	border-radius: 6px;
+	overflow: hidden;
+	background:#fff;
+	box-shadow: 0px 1px 10px rgba(0,0,0,0.2);
+	transition: all 400ms ease-out;
+	cursor: default;
+}
+.card:hover{
+	box-shadow: 5px 5px 20px rgba(0,0,0,0.4);
+	transform: translateY(-3%);
+}
+.card img{
+	width: 100%;
+	height: 210px;
+}
+.card .contenido-card{
+	padding: 15px;
+	text-align: center;
+}
+.card .contenido-card h3{
+	margin-bottom: 15px;
+	color: #7a7a7a;
+}
+.card .contenido-card p{
+	line-height: 1.8;
+	color: #6a6a6a;
+	font-size: 14px;
+	margin-bottom: 5px;
+}
+.card .contenido-card a{
+	display: inline-block;
+	padding: 10px;
+	margin-top: 10px;
+	text-decoration: none;
+	color: #2fb4cc;
+	border: 1px solid #2fb4cc;
+	border-radius: 4px;
+	transition: all 400ms ease;
+	margin-bottom: 5px;
+}
+.card .contenido-card a:hover{
+	background: #2fb4cc;
+	color: #fff;
+}
+@media only screen and (min-width:320px) and (max-width:768px){
+	.container-card{
+		flex-wrap: wrap;
+	}
+	.card{
+		margin: 15px;
+	}
+}
+
+.accordion-container {
+    border: 2px solid #007bff;
+    padding: 10px;
+    border-radius: 10px;
+    width: 400px;
+    margin: 0 auto;
+  }
+
+  .accordion-item:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 255, 0.3);
+    transition: box-shadow 0.3s ease-in-out;
+  }
+
+.body{
+	background: #6a6a6a;
+}
+ .body {
+	padding-top: 56px; 
+	
+  }
+  .border-blue {
+    border: 2px solid #007bff;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+
+  /* __• */
+  .border-blue {
+	width: 100%;
+	margin: 20px;
+	border-radius: 6px;
+	overflow: hidden;
+	background:#fff;
+	box-shadow: 0px 1px 10px rgba(0,0,0,0.2);
+	transition: all 400ms ease-out;
+	cursor: default;
+}
+.border-blue:hover{
+	box-shadow: 5px 5px 20px rgba(0,0,0,0.4);
+	transform: translateY(-3%);
+}
+.border-blue img{
+	width: 100%;
+	height: 210px;
+}
+.border-blue .contenido-card{
+	padding: 15px;
+	text-align: center;
+}
+.border-blue.contenido-card h3{
+	margin-bottom: 15px;
+	color: #7a7a7a;
+}
+.border-blue.contenido-card p{
+	line-height: 1.8;
+	color: #6a6a6a;
+	font-size: 14px;
+	margin-bottom: 5px;
+}
+.border-blue.contenido-card a{
+	display: inline-block;
+	padding: 10px;
+	margin-top: 10px;
+	text-decoration: none;
+	color: #2fb4cc;
+	border: 1px solid #2fb4cc;
+	border-radius: 4px;
+	transition: all 400ms ease;
+	margin-bottom: 5px;
+}
+.border-blue.contenido-card a:hover{
+	background: #2fb4cc;
+	color: #fff;
+}
+@media only screen and (min-width:320px) and (max-width:768px){
+	.container-border-blue{
+		flex-wrap: wrap;
+	}
+	.border-blue{
+		margin: 15px;
+	}
+}
+
+
+/* ESTILOS PARA EL CARRITO DE COMPRAS */
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+
+.container nav {
+	width: 100%;
+	display: flex;
+	justify-content: flex-end;
+	padding: 15;
+	background-color: #fff;
+	margin-bottom: 30px;
+	color: #333;	
+}
+
+.nav-card{
+	display: none;
+}
+
+.container nav button{
+	display: none;
+}
+
+.nav-card li{
+	list-style: none;
+	padding: 1rem;
+	font-weight: bold;
+}
+
+.container nav i:hover > .buy-card {
+	width: 400px;
+	height: 400px;
+	position: absolute;
+	right: 0;
+	background-color: #fff;
+	font-size: 30.5%;
+}
+
+.container nav i:hover .nav-card{
+	font-size: 1.4rem;
+	display: flex;
+	justify-content: space-between;
+	margin: 0 10px 0 10px;
+	border-bottom: solid thin #e1e1e1;
+	font-size: 100%;
+	
+}
+
+.container nav i:hover .buy-card > button{
+	display: block;
+	width: 90%;
+	padding: 1rem;
+	margin: 10px auto;
+	background-color: transparent;
+	border: solid thin #e1e1e1;
+	color: #494848;
+	cursor: pointer;
+}
+
+.container nav i:hover .buy-card > button:hover{
+	border: solid thin #494848;
+	transition: all.4s;
+}
+
+.container nav i {
+	font-size: 3rem;
+	cursor: pointer;
+}
