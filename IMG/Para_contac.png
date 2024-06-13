@@ -1,0 +1,2205 @@
+
+
+<!DOCTYPE html>
+<html dir="az" lang="az">
+<head>
+
+
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta name="description" content="Diaqnoz Tibb Mərkəzi">
+<meta name="keywords" content="diaqnoz">
+<meta name="author" content="1web.az">
+
+
+<title>Diaqnoz Tibb Mərkəzi</title>
+
+
+<link href="https://diaqnoz.az/favicon.png" rel="shortcut icon" type="image/png">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-W8R80VGECW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-W8R80VGECW');
+</script>
+<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="css/animate.min.css" rel="stylesheet" type="text/css">
+<link href="css/javascript-plugins-bundle.css" rel="stylesheet">
+
+
+<link href="js/menuzord/css/menuzord.css" rel="stylesheet">
+
+
+<link href="css/style-main2.css" rel="stylesheet" type="text/css">
+<link id="menuzord-menu-skins" href="css/menuzord-skins/menuzord-rounded-boxed.css" rel="stylesheet">
+
+<link href="css/responsive.css" rel="stylesheet" type="text/css">
+
+<link href="css/colors/theme-skin-color-set1.css" rel="stylesheet" type="text/css">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+<script src="js/jquery.js"></script>
+<script src="js/popper.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/javascript-plugins-bundle.js"></script>
+<script src="js/menuzord/js/menuzord.js"></script>
+
+<link rel="stylesheet" type="text/css" href="js/revolution-slider/css/rs6.css">
+<link rel="stylesheet" type="text/css" href="js/revolution-slider/extra-rev-slider1.css">
+
+<script src="js/revolution-slider/js/revolution.tools.min.js"></script>
+<script src="js/revolution-slider/js/rs6.min.js"></script>
+<script src="js/revolution-slider/extra-rev-slider15.js"></script>
+
+ <script type="text/javascript" src="sweetalert2.all.min.js"></script>
+ 
+ <head>
+  <script src="https://www.google.com/recaptcha/enterprise.js?render=6Lez69spAAAAAECx3j6RglncDqd01n6COl-aTZYG"></script>
+  <!-- Your code -->
+</head>
+<script><script>
+  function onClick(e) {
+    e.preventDefault();
+    grecaptcha.enterprise.ready(async () => {
+      const token = await grecaptcha.enterprise.execute('6Lez69spAAAAAECx3j6RglncDqd01n6COl-aTZYG', {action: 'LOGIN'});
+    });
+  }
+</script></script>
+
+</head>
+<body class="tm-container-1300px has-side-panel side-panel-right">
+    
+    
+<div id="wrapper" class="clearfix">
+
+  <style>
+    
+    :root{
+        --renk1:#0e116c;
+    }
+</style>
+
+<script src="//code.jivosite.com/widget/GLVDkx5H8M" async></script>
+
+
+
+<header id="header" class="header header-layout-type-header-2rows">
+    <div class="header-top">
+      <div class="container">
+        <div class="row">
+          <div class="col-xl-auto header-top-left align-self-center text-center text-xl-start">
+            <ul class="element contact-info">
+              <li class="contact-phone"><i class="fa fa-phone font-icon sm-display-block"></i> Tel: (+99455)-754-43-03</li>
+              <li class="contact-email"><i class="fa fa-envelope font-icon sm-display-block"></i> info@diaqnoz.az</li>
+              <li class="contact-address"><i class="fa fa-map font-icon sm-display-block"></i> Əhmədli qəs., Sarayevo küç., 38C</li>
+            </ul>
+          </div>
+          <div class="col-xl-auto ms-xl-auto header-top-right align-self-center text-center text-xl-end">
+            <div class="element pt-0 pb-0">
+              <ul class="styled-icons icon-dark icon-theme-colored1 icon-circled clearfix">
+                <li><a class="social-link" href="https://www.facebook.com/diaqnoztibbmerkezi"><i class="fab fa-facebook"></i></a></li>
+                     <li><a class="social-link" href="https://www.instagram.com/diaqnoztibbmerkezi/"><i class="fab fa-instagram"></i></a></li>
+                <li><a class="social-link" href="https://www.tiktok.com/@diaqnoztibbmerkezi?"><i class="fab fa-tiktok"></i></a></li>
+                <li><a class="social-link" href="https://www.youtube.com/@sedaismailova5495"><i class="fab fa-youtube"></i></a></li>
+              </ul>
+            </div>
+      
+          <div class="element pt-0 pt-lg-10 pb-0">
+              <a href="http://85.132.8.38:8280/login.aspx?ReturnUrl=onlineislemler/labsonuc.aspx&lang=az-Latn-AZ" target="_blank"> <button id="" class="btn btn-theme-colored2 btn-flat btn-sm " style="color:#fff;">Analizin Cavabı</button> </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="header-nav tm-enable-navbar-hide-on-scroll">
+      <div class="header-nav-wrapper navbar-scrolltofixed">
+        <div class="menuzord-container header-nav-container">
+          <div class="container position-relative">
+            <div class="row header-nav-col-row">
+              <div class="col-sm-auto align-self-center">
+                <a class="menuzord-brand site-brand" href="./">
+                  <img class="logo-default logo-1x" src="resimler/782651284-diaqnoz-tibb-m-rk-zi.png" alt="Logo">
+                  <img class="logo-default logo-2x retina" src="resimler/782651284-diaqnoz-tibb-m-rk-zi.png" alt="Logo">
+                </a>
+              </div>
+              <div class="col-sm-auto ms-auto pr-0 align-self-center">
+                <nav id="top-primary-nav" class="menuzord theme-color2" data-effect="slide" data-animation="none" data-align="right">
+                  <ul id="main-nav" class="menuzord-menu">
+                                    <li class="menu-item"><a href="./" >Əsas səhifə</a>
+                                          </li>
+                              <li class="menu-item"><a href="#" >Haqqımızda</a>
+                                            <ul class="dropdown">
+                                                <li><a href="/missiyamiz" >Missiyamız</a>
+                        
+                                                </li>
+                                            <li><a href="/tibbi-sigorta" >Tibbi Sığorta</a>
+                        
+                                                </li>
+                                            <li><a href="/blog" >Xəbərlər</a>
+                        
+                                                </li>
+                                            <li><a href="/yaranma-tarixi" >Yaranma tarixi</a>
+                        
+                                                </li>
+                                          </ul>
+                                          </li>
+                              <li class="menu-item"><a href="/shobeler" >Şöbələr</a>
+                                          </li>
+                              <li class="menu-item"><a href="#" >Qiymətlər</a>
+                                            <ul class="dropdown">
+                                                <li><a href="/laboratoriya-qiymetler" >Laboratoriya</a>
+                        
+                                                </li>
+                                            <li><a href="/radiologiya-qiymetler" >Radiologiya</a>
+                        
+                                                </li>
+                                            <li><a href="/cerrahi-qiymetler" >Cərrahi Əməliyyatlar</a>
+                        
+                                                </li>
+                                            <li><a href="/checkup-qiymetler" >Check-UP</a>
+                        
+                                                </li>
+                                            <li><a href="/polinklinik-qiymetler" >Poliklinik Xidmətlər</a>
+                        
+                                                </li>
+                                          </ul>
+                                          </li>
+                              <li class="menu-item"><a href="/hekimler" >Həkimlərimiz</a>
+                                          </li>
+                              <li class="menu-item"><a href="#" >Qalereya</a>
+                                            <ul class="dropdown">
+                                                <li><a href="qalereya" >Fotoqalereya</a>
+                        
+                                                </li>
+                                            <li><a href="video" >Videoqalereya</a>
+                        
+                                                </li>
+                                          </ul>
+                                          </li>
+                              <li class="menu-item"><a href="blog" >Yeniliklər</a>
+                                          </li>
+                              <li class="menu-item"><a href="elaqe" >Əlaqə</a>
+                                          </li>
+                            </ul>
+                </nav>
+              </div>
+              <div class="col-sm-auto align-self-center nav-side-icon-parent">
+           
+                <div id="top-nav-search-form" class="clearfix">
+                  <form action="#" method="GET">
+                    <input type="text" name="s" value="" placeholder="Type and Press Enter..." autocomplete="off">
+                  </form>
+                  <a href="#" id="close-search-btn"><i class="fa fa-times"></i></a>
+                </div>
+              </div>
+            </div>
+            <div class="row d-block d-xl-none">
+               <div class="col-12">
+                <nav id="top-primary-nav-clone" class="menuzord d-block d-xl-none default menuzord-color-default menuzord-border-boxed menuzord-responsive" data-effect="slide" data-animation="none" data-align="right">
+                 <ul id="main-nav-clone" class="menuzord-menu menuzord-right menuzord-indented scrollable">
+                 </ul>
+                </nav>
+               </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+  
+  
+  
+
+  <style>
+
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 999999999!important; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+  background-color: #fefefe;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%;
+}
+
+/* The Close Button */
+.close {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+</style>
+<!-- Trigger/Open The Modal -->
+
+
+<!-- The Modal -->
+<div id="myModal" class="modal">
+
+  <!-- Modal content -->
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <div class="col-lg-12">
+            <h2 class="mt-0 mb-0">Randevu formu.</h2>
+            <p class="font-size-20">Müraciət etdikdən sonra sizinlə əlaqə saxlanılacaq.</p>
+                         <!-- Contact Form -->
+            <form  action="admin/include/fonksiyonlar.php" method="post">
+              <div class="row">
+                <div class="col-sm-6">
+                  <div class="mb-3">
+                    <label>Ad və Soyad <small>*</small></label>
+                    <input name="adsoyad" class="form-control" type="text" >
+                  </div>
+                </div>
+                <div class="col-sm-6">
+                  <div class="mb-3">
+                    <label>Email <small>*</small></label>
+                    <input name="email" class="form-control required email" type="email">
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-sm-6">
+                  <div class="mb-3">
+                    <label>Randevu günü <small>*</small></label>
+                    <input name="konu" class="form-control required" type="date">
+                  </div>
+                </div>
+                <div class="col-sm-6">
+                  <div class="mb-3">
+                    <label>Telefon</label>
+                    <input name="telefon" class="form-control" type="text" >
+                  </div>
+                </div>
+              </div>
+              <div class="mb-3">
+                <label>Mesaj</label>
+                <textarea name="mesaj" class="form-control required" rows="7" ></textarea>
+              </div>
+              <div class="mb-3">
+                <input name="link" class="form-control" type="hidden" value="../../elaqe" />
+                <button type="submit" class="btn btn-theme-colored1 text-uppercase mt-10 mb-sm-30 border-left-theme-color-2-4px" name="iletisim-formu">Göndər</button>
+                <button type="reset" class="btn btn-theme-colored3 text-uppercase mt-10 mb-sm-30 border-left-theme-color-2-4px">Təmizlə</button>
+              </div>
+            </form>
+            <!-- Contact Form Validation-->
+         
+          </div>
+  </div>
+
+</div>
+
+<script>
+// Get the modal
+var modal = document.getElementById("myModal");
+
+// Get the button that opens the modal
+var btn = document.getElementById("myBtn");
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks the button, open the modal 
+btn.onclick = function() {
+  modal.style.display = "block";
+}
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() {
+  modal.style.display = "none";
+}
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+  if (event.target == modal) {
+    modal.style.display = "none";
+  }
+}
+</script>
+
+  <div class="main-content-area">
+   <section id="home">
+      <div class="container-fluid p-0">
+        <div class="row">
+          <div class="col">
+            <!-- START Industrivo Rev Slider 2 REVOLUTION SLIDER 6.1.7 test1-->
+            <p class="rs-p-wp-fix"></p>
+            <rs-module-wrap id="rev_slider_1_1_wrapper" data-alias="industrivo-rev-slider-2" data-source="gallery" style="background:transparent;margin:0px auto;margin-top:0;margin-bottom:0;">
+              <rs-module id="rev_slider_1_1" style="display:none;" data-version="6.1.7">
+                <rs-slides>
+                                  <rs-slide data-key="rs-21" data-title="Slide 1" data-thumb="resimler/328-.webp" data-anim="ei:d;eo:d;s:d;r:0;t:slotslide-horizontal;sl:d;">
+                    <img src="resimler/328-.webp" title="slide1" width="1920" height="1280" data-parallax="off" class="rev-slidebg" data-no-retina="">
+                    <rs-layer id="slider-4-slide-21-layer-18" data-type="text" data-rsp_ch="on" data-xy="x:l,l,l,c;xo:45px,45px,35px,0;yo:260px,203px,233px,212px;" data-text="w:normal;s:120,93,92,68;l:115,89,90,68;ls:1px,0px,0px,0px;fw:700;a:left,left,left,center;" data-frame_1="st:1000;sp:1000;sR:220;" data-frame_999="o:0;st:w;sR:7790;" style="z-index:9;" class="font-current-theme2"><span class="text-theme-colored2"></span>
+                    </rs-layer>
+                    <rs-layer id="slider-4-slide-21-layer-21" data-type="text" data-rsp_ch="on" data-xy="x:l,l,l,c;xo:50px,50px,40px,0;yo:218px,170px,195px,169px;" data-text="w:normal;s:22,22,21,20;l:25,19,23,22;ls:1px,0px,0px,0px;a:left,left,left,center;" data-frame_1="st:500;sp:1000;" data-frame_999="o:0;st:w;sR:8000;" style="z-index:10;font-style:italic;" class="font-current-theme1"><span style="color: #777;"></span>
+                    </rs-layer>
+                   
+                
+
+                    </rs-layer>
+                    <rs-layer id="slider-4-slide-21-layer-33" data-type="shape" data-rsp_ch="on" data-text="w:normal;s:20,15,11,6;l:0,19,14,8;" data-dim="w:100%;h:100%;" data-basealign="slide" data-frame_1="st:500;sp:1000;" data-frame_999="o:0;st:w;sR:8000;" style="z-index:3;background-color:rgba(250,250,250,0.15);">
+                    </rs-layer>
+                  </rs-slide>
+                  
+                                    <rs-slide data-key="rs-23" data-title="Slide 1" data-thumb="resimler/819-.webp" data-anim="ei:d;eo:d;s:d;r:0;t:slotslide-horizontal;sl:d;">
+                    <img src="resimler/819-.webp" title="slide1" width="1920" height="1280" data-parallax="off" class="rev-slidebg" data-no-retina="">
+                    <rs-layer id="slider-4-slide-23-layer-18" data-type="text" data-rsp_ch="on" data-xy="x:l,l,l,c;xo:45px,45px,35px,0;yo:260px,203px,233px,212px;" data-text="w:normal;s:120,93,92,68;l:115,89,90,68;ls:1px,0px,0px,0px;fw:700;a:left,left,left,center;" data-frame_1="st:1000;sp:1000;sR:220;" data-frame_999="o:0;st:w;sR:7790;" style="z-index:9;" class="font-current-theme2"><span class="text-theme-colored2"></span>
+                    </rs-layer>
+                    <rs-layer id="slider-4-slide-23-layer-21" data-type="text" data-rsp_ch="on" data-xy="x:l,l,l,c;xo:50px,50px,40px,0;yo:218px,170px,195px,169px;" data-text="w:normal;s:22,22,21,20;l:25,19,23,22;ls:1px,0px,0px,0px;a:left,left,left,center;" data-frame_1="st:500;sp:1000;" data-frame_999="o:0;st:w;sR:8000;" style="z-index:10;font-style:italic;" class="font-current-theme1"><span style="color: #777;"></span>
+                    </rs-layer>
+                   
+                
+
+                    </rs-layer>
+                    <rs-layer id="slider-4-slide-23-layer-33" data-type="shape" data-rsp_ch="on" data-text="w:normal;s:20,15,11,6;l:0,19,14,8;" data-dim="w:100%;h:100%;" data-basealign="slide" data-frame_1="st:500;sp:1000;" data-frame_999="o:0;st:w;sR:8000;" style="z-index:3;background-color:rgba(250,250,250,0.15);">
+                    </rs-layer>
+                  </rs-slide>
+                  
+                                  </rs-slides>
+                <rs-static-layers>
+                  <!--
+                    -->
+                </rs-static-layers>
+                <rs-progress class="rs-bottom" style="height: 5px; background: rgba(199,199,199,0.5);"></rs-progress>
+              </rs-module>
+              <script>
+                if(typeof revslider_showDoubleJqueryError === "undefined") {
+                  function revslider_showDoubleJqueryError(sliderID) {
+                    var err = "<div class='rs_error_message_box'>";
+                    err += "<div class='rs_error_message_oops'>Oops...</div>";
+                    err += "<div class='rs_error_message_content'>";
+                    err += "You have some jquery.js library include that comes after the Slider Revolution files js inclusion.<br>";
+                    err += "To fix this, you can:<br>&nbsp;&nbsp;&nbsp; 1. Set 'Module General Options' -> 'Advanced' -> 'jQuery & OutPut Filters' -> 'Put JS to Body' to on";
+                    err += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jQuery.js inclusion and remove it";
+                    err += "</div>";
+                    err += "</div>";
+                    jQuery(sliderID).show().html(err);
+                  }
+                }
+              </script>
+            </rs-module-wrap>
+            <!-- END REVOLUTION SLIDER -->
+          </div>
+        </div>
+      </div>
+    </section><section class="bg-no-repeat bg-img-right" data-tm-bg-img="images/photos/map.png">
+      <div class="container pt-lg-90 pb-60 pb-lg-30">
+        <div class="section-content mb-100 mb-md-0">
+          <div class="row">
+            <div class="col-lg-6">
+              <div class="tm-sc tm-sc-animated-layer-advanced pt-0 mb-md-100 mb-sm-80">
+                <div class="animated-layer-advanced-inner clearfix">
+                  <div class="tm-about-box">
+                    <div class="layer-image-wrapper tm-animation move-up z-index-1 text-center">
+                      <div class="layer-image img-one"> <img class="" src="resimler/779-.JPG" alt="Image"></div>
+                    </div>
+                   
+                    <div class="layer-image-wrapper tm-animation move-right d-none d-sm-block z-index-1" data-tm-right="-2%" data-tm-top="40%">
+                      <div class="layer-image-three">
+                        <div class="icon bg-theme-colored1"><img src="images/icon/1.png" alt="Image"></div>
+                        <div class="layer-shape-round"></div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-6">
+              <div class="pl-30 pl-lg--0">
+                <h2 class="mt-0 mb-30 tm-item-appear-clip-path">Peşəkar həkimlərimiz və tibb heyətimiz ilə sağlamlığınızın keşiyindəyik!</h2>
+                <p class="paragraph mb-30">Diaqnoz Tibb Mərkəzində Azərbaycanın tanınmış, xarici ölkələrdə təkmilləşmiş, peşəkar
+həkimlər, həmçinin müasir təcrübəli tibb heyəti xidmət göstərməkdədir.
+Çoxprofilli ambulator və stasionar xidmətləri özündə cəmləyərək müasir müayinə və müalicə
+metodları ilə yüksək səviyyəli xidmətlərimiz mərkəzimizin ən böyük üstünlüklərindəndir.
+Sağlamlığınızı peşəkarlara həvalə edin!</p>
+             
+                <div class="row">
+                
+                  <div class="col-sm-6">
+                    <div class="tm-about-box mt-1">
+                      <div class="box-hover-effect play-video-button tm-sc tm-sc-video-popup">
+                        <div class="effect-wrapper">
+                          <div class="thumb"> <img src="images/about/3.jpg" alt="Image"></div>
+                          <div class="video-button bg-theme-colored1 text-center"><span class="fas fa-play"></span></div>
+                          <a class="hover-link" data-lightbox-gallery="youtube-video" href="https://youtu.be/RxmLCSMdQnc?si=NyChzOaz7gkGa5_T" title=""></a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+          
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="">
+      <div class="container pt-0 pb-lg-90">
+        <div class="section-content">
+          
+          <div class="row mt-100 mt-lg-60">
+            <div class="col-lg-12">
+              <div class="tm-sc tm-sc-clients owl-carousel owl-theme tm-owl-carousel-5col tm-clients-carousel">
+                                    </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section><section class="bg-img overflow-hidden" data-tm-bg-img="images/photos/divider-bg.jpg">
+      <div class="container banerConrainer">
+        <div class="section-content">
+            <div class="row">
+              <div class="col-lg-6">
+                <div class="tm-sc-section-title section-title section-title-light mb-60 mt-20 pr-50">
+                  <div class="title-wrapper">
+                    <h5 class="subtitle text-white">(+99455)-754-43-03</h5>
+                    <h2 class="title text-white">Tibbi xidmətə ehtiyacın var? <span class="text-theme-colored3">Əlaqə saxla</span></h2>
+                    <div class="tm-sc-button">
+                      <a href="tel:(+99455)-754-43-03" class="btn btn-theme-colored1 btn-flat">İndi zəng et</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-6">
+                <div class="divider-current-theme-style1 position-relative">
+                  <div class="layer-image-wrapper">
+                    <div class="layer-image">
+                      <img src="images/divider/1.png" alt="Image">
+                    </div>
+                   
+                  </div>
+                </div>
+                 <div class="experience-iconbox banerIconbox">
+                      <h4 class="number text-theme-colored1">20</h4>
+                      <h4 class="title">ildən artıq peşəkar təcrübə</h4>
+                    </div>
+              </div>
+            </div>
+        </div>
+      </div>
+    </section><section class="z-index-1" data-tm-bg-color="#f0f3f5">
+      <div class="container pb-90 pb-lg-60">
+        <div class="section-title">
+          <div class="row justify-content-center">
+            <div class="col-md-8">
+              <div class="tm-sc-section-title section-title text-center mb-60">
+                <div class="title-wrapper">
+           
+                  <h2 class="title">Şöbələr</h2>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="section-content">
+          <div class="row">
+                          <div class="col-md-6 col-lg-4 tm-animation move-up3">
+              <div class="tm-sc-iconbox iconbox-style-current-theme mediku-department icon-box animate-icon-on-hover animate-icon-rotate-y mb-30">
+                <div class="icon-wrapper">
+                  <div class="icon">
+                    <img class="icon-img" src="resimler/788-.png" alt="Ümumi Cərrahiyyə">
+                  </div>
+                </div>
+                <div class="content text-center">
+                  <h4 class="title">Ümumi Cərrahiyyə</h4>
+                  <p></p>
+                  <a class="btn-plain-text-with-arrow" href="umumi-c-rrahiyy">Daha ətraflı</a>
+                </div>
+              </div>
+            </div>
+                        <div class="col-md-6 col-lg-4 tm-animation move-up3">
+              <div class="tm-sc-iconbox iconbox-style-current-theme mediku-department icon-box animate-icon-on-hover animate-icon-rotate-y mb-30">
+                <div class="icon-wrapper">
+                  <div class="icon">
+                    <img class="icon-img" src="resimler/153-.png" alt="Laboratoriya">
+                  </div>
+                </div>
+                <div class="content text-center">
+                  <h4 class="title">Laboratoriya</h4>
+                  <p></p>
+                  <a class="btn-plain-text-with-arrow" href="laboratoriya">Daha ətraflı</a>
+                </div>
+              </div>
+            </div>
+                        <div class="col-md-6 col-lg-4 tm-animation move-up3">
+              <div class="tm-sc-iconbox iconbox-style-current-theme mediku-department icon-box animate-icon-on-hover animate-icon-rotate-y mb-30">
+                <div class="icon-wrapper">
+                  <div class="icon">
+                    <img class="icon-img" src="resimler/970-.png" alt=" Oftalmologiya">
+                  </div>
+                </div>
+                <div class="content text-center">
+                  <h4 class="title"> Oftalmologiya</h4>
+                  <p></p>
+                  <a class="btn-plain-text-with-arrow" href="oftalmologiya">Daha ətraflı</a>
+                </div>
+              </div>
+            </div>
+                        <div class="col-md-6 col-lg-4 tm-animation move-up3">
+              <div class="tm-sc-iconbox iconbox-style-current-theme mediku-department icon-box animate-icon-on-hover animate-icon-rotate-y mb-30">
+                <div class="icon-wrapper">
+                  <div class="icon">
+                    <img class="icon-img" src="resimler/908-.png" alt="Kardiologiya">
+                  </div>
+                </div>
+                <div class="content text-center">
+                  <h4 class="title">Kardiologiya</h4>
+                  <p></p>
+                  <a class="btn-plain-text-with-arrow" href="kardiologiya">Daha ətraflı</a>
+                </div>
+              </div>
+            </div>
+                        <div class="col-md-6 col-lg-4 tm-animation move-up3">
+              <div class="tm-sc-iconbox iconbox-style-current-theme mediku-department icon-box animate-icon-on-hover animate-icon-rotate-y mb-30">
+                <div class="icon-wrapper">
+                  <div class="icon">
+                    <img class="icon-img" src="resimler/835-.png" alt="Radiologiya">
+                  </div>
+                </div>
+                <div class="content text-center">
+                  <h4 class="title">Radiologiya</h4>
+                  <p></p>
+                  <a class="btn-plain-text-with-arrow" href="radiologiya">Daha ətraflı</a>
+                </div>
+              </div>
+            </div>
+                        <div class="col-md-6 col-lg-4 tm-animation move-up3">
+              <div class="tm-sc-iconbox iconbox-style-current-theme mediku-department icon-box animate-icon-on-hover animate-icon-rotate-y mb-30">
+                <div class="icon-wrapper">
+                  <div class="icon">
+                    <img class="icon-img" src="resimler/563-.png" alt="Qastroenterologiya">
+                  </div>
+                </div>
+                <div class="content text-center">
+                  <h4 class="title">Qastroenterologiya</h4>
+                  <p></p>
+                  <a class="btn-plain-text-with-arrow" href="qastroenterologiya">Daha ətraflı</a>
+                </div>
+              </div>
+            </div>
+                      </div>
+        </div>
+      </div>
+      <div class="cp-shape layer-shape-style4">
+        <div class="layer-shape-one" data-tm-bg-img="images/photos/bg-shape2.png"></div>
+      </div>
+    </section><section class="bg-white-f5" style="display:none;">
+      <div class="container pb-90">
+        <div class="section-title">
+          <div class="row justify-content-md-center">
+            <div class="col-md-5 col-sm-12">
+              <div class="text-center mb-60">
+                <div class="tm-sc tm-sc-section-title section-title">
+                  <div class="title-wrapper">
+                   
+                    <h2 class="title">Həkimlərimiz</h2>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="section-content">
+          <div class="row">
+                           <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/48-tofiq-kb-rov.webp" alt="Dr. Tofiq Əkbərov">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr.-tofiq-kb-rov">Dr. Tofiq Əkbərov</a></h4>
+                    <h6 class="designation mb-0">Terapevt-Hepatoloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/544-t.u.f.d-dr.-reyhan-mustafayeva.webp" alt="T.ü.f.d Dr. Reyhan Mustafayeva">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="t.u.f.d-dr.-reyhan-mustafayeva">T.ü.f.d Dr. Reyhan Mustafayeva</a></h4>
+                    <h6 class="designation mb-0">Endokrinoloq-Dietoloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/992-t.u.f.d-dr.-aydin-mirz-yev.webp" alt="T.ü.f.d Dr. Aydın Mirzəyev">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="t.u.f.d-dr.-aydin-mirz-yev">T.ü.f.d Dr. Aydın Mirzəyev</a></h4>
+                    <h6 class="designation mb-0">Radioloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/268-dr.-r-fael-h-s-nov.webp" alt="Dr. Rəfael Həsənov">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-r-fael-h-s-nov">Dr. Rəfael Həsənov</a></h4>
+                    <h6 class="designation mb-0">Qastroenterologiya şöbəsinin müdiri</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/141-dr.-gul-r-m-mm-dov.webp" alt="Dr. Gülər Məmmədova">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr.-gul-r-m-mm-dova">Dr. Gülər Məmmədova</a></h4>
+                    <h6 class="designation mb-0">Ginekologiya şöbəsinin müdiri</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/392-dr.-agadadas-r-sidov.webp" alt="Dr. Ağadadaş Rəşidov">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-agadadas-r-sidov">Dr. Ağadadaş Rəşidov</a></h4>
+                    <h6 class="designation mb-0">Kardioloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/861-dr.-idrak-h-s-nov.webp" alt="Dr. İdrak Həsənov">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr.-idrak-h-s-nov">Dr. İdrak Həsənov</a></h4>
+                    <h6 class="designation mb-0">Vertebroloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/956-dr.-yegan-zeynalova.webp" alt="Dr_Yeganə Zeynalova">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr_yegan-zeynalova">Dr_Yeganə Zeynalova</a></h4>
+                    <h6 class="designation mb-0">Pediatr</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/630-dr.-r-van-bagirova.webp" alt="Dr. Rəvanə Bağırova">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-r-van-bagirova">Dr. Rəvanə Bağırova</a></h4>
+                    <h6 class="designation mb-0">Laboratoriya şöbəsinin müdiri</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/573-dr.-elxan-seyidov.webp" alt="Dr. Elxan Seyidov">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-elxan-seyidov">Dr. Elxan Seyidov</a></h4>
+                    <h6 class="designation mb-0">Həkim-Laborant</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/471-dr.-k-mal-muxtarova.webp" alt="Dr. Kəmalə Muxtarova">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-k-mal-muxtarova">Dr. Kəmalə Muxtarova</a></h4>
+                    <h6 class="designation mb-0">Həkim-Laborant</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/753-dr.-cahan-huseynova.webp" alt="Dr. Cahan Hüseynova">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr.-cahan-huseynova">Dr. Cahan Hüseynova</a></h4>
+                    <h6 class="designation mb-0">Radioloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/649-dr.-cingiz-m-mm-dov.webp" alt="Dr. Çingiz Məmmədov">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-cingiz-m-mm-dov">Dr. Çingiz Məmmədov</a></h4>
+                    <h6 class="designation mb-0">Radioloq-Rentgenoloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/308-dr.-aynur-k-rimova.webp" alt="Dr. Aynurə Kərimova">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-aynur-k-rimova">Dr. Aynurə Kərimova</a></h4>
+                    <h6 class="designation mb-0">Anestezioloq-Reanimatoloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/763-dr.-umid-ibrahimov.webp" alt="Dr. Umud İbrahimov">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr.-umud-ibrahimov">Dr. Umud İbrahimov</a></h4>
+                    <h6 class="designation mb-0">Anestezioloq-Reanimatoloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/296-dr.-xalid-huseynli.webp" alt="Dr. Xalid Hüseynli">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-xalid-huseynli">Dr. Xalid Hüseynli</a></h4>
+                    <h6 class="designation mb-0">Anestezioloq-Reanimatoloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/106-dr.-karima-liyeva.webp" alt="Dr. Karima Əliyeva">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-karima-liyeva">Dr. Karima Əliyeva</a></h4>
+                    <h6 class="designation mb-0">Həkim-Laborant</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/467-dr.-r-sid-c-f-rova.webp" alt="Dr. Rəşidə Cəfərova">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-r-sid-c-f-rova">Dr. Rəşidə Cəfərova</a></h4>
+                    <h6 class="designation mb-0">Anestezioloq-Reanimatoloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/856-dr.-ramil-quliyev.webp" alt="Dr. Ramil Quliyev">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-ramil-quliyev">Dr. Ramil Quliyev</a></h4>
+                    <h6 class="designation mb-0">Ümumi Cərrah, Laparoskopist </h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/209-dr.-elcin-mirz-yev.webp" alt="Dr. Elçin Mirzəyev">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr.-elcin-mirz-yev">Dr. Elçin Mirzəyev</a></h4>
+                    <h6 class="designation mb-0">Həkim-Laborant</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/858-dr.-yelena-smirnova.webp" alt="Dr. Yelena Smirnova">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-yelena-smirnova">Dr. Yelena Smirnova</a></h4>
+                    <h6 class="designation mb-0">Nevroloq-Neyrofizioloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/889-dr.-s-ad-t-haciyeva.webp" alt="Dr. Səadət Hacıyeva">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr.-s-ad-t-haciyeva">Dr. Səadət Hacıyeva</a></h4>
+                    <h6 class="designation mb-0">Nevroloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/985-dr.-raid-s-m-dova.webp" alt="Dr. Raidə Səmədova">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-raida-samadova">Dr. Raidə Səmədova</a></h4>
+                    <h6 class="designation mb-0">Oftalmoloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/59-dr.-olman-abbasov.webp" alt="Dr. Olman Abbasov">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-olman-abbasov">Dr. Olman Abbasov</a></h4>
+                    <h6 class="designation mb-0">Kardioloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/103-dr.-tunzal-v-liyeva.webp" alt="Dr. Tünzalə Vəliyeva">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-tunzal-v-liyeva">Dr. Tünzalə Vəliyeva</a></h4>
+                    <h6 class="designation mb-0">Oftalmoloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/219-dr.-n-rgiz-adigoz-lova.webp" alt="Dr. Nərgiz Adıgözəlova">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-n-rgiz-adigoz-lova">Dr. Nərgiz Adıgözəlova</a></h4>
+                    <h6 class="designation mb-0">Nevroloq, EMQ üzrə mütəxəssis</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/347-dr_vusal-liyev.webp" alt="Dr_Vüsal Əliyev">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr_vusal-liyev">Dr_Vüsal Əliyev</a></h4>
+                    <h6 class="designation mb-0">LOR-Cərrah</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/99-dr.-konul-m-mm-dova.webp" alt="Dr. Könül Məmmədova">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-konul-m-mm-dova">Dr. Könül Məmmədova</a></h4>
+                    <h6 class="designation mb-0">Radioloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/980-dr.-ramil-abbaszad.webp" alt="Dr. Ramilə Abbaszadə">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-ramil-abbaszad">Dr. Ramilə Abbaszadə</a></h4>
+                    <h6 class="designation mb-0">Cərrah Mama-Ginekoloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/33-dr.-lal-cabbarova.webp" alt="Dr. Lalə Cabbarova">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-lal-cabbarova">Dr. Lalə Cabbarova</a></h4>
+                    <h6 class="designation mb-0">Ozonoterapevt</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/819-dr.-konul-behbudova.webp" alt="Dr. Könül Behbudova">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-konul-behbudova">Dr. Könül Behbudova</a></h4>
+                    <h6 class="designation mb-0">Radioloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/130-dr.-m-h-mm-d-ramazanov.webp" alt="Dr. Məhəmməd Ramazanov">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-mahammad-ramazanov">Dr. Məhəmməd Ramazanov</a></h4>
+                    <h6 class="designation mb-0">Ümumi Cərrah</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/943-dr.-sm-r-abbasova.webp" alt="Dr. Əsmər Abbasova">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-sm-r-abbasova">Dr. Əsmər Abbasova</a></h4>
+                    <h6 class="designation mb-0">Radioloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/842-dr.-gulnar-agayeva.webp" alt="Dr. Gülnar Ağayeva">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr.-gulnar-agayeva">Dr. Gülnar Ağayeva</a></h4>
+                    <h6 class="designation mb-0">Cərrah Mama-Ginekoloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/452-dr.-ayb-niz-mustafayeva.webp" alt="Dr. Aybəniz Mustafayeva">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-ayb-niz-mustafayeva">Dr. Aybəniz Mustafayeva</a></h4>
+                    <h6 class="designation mb-0">Fizioterapevt-Reabilitoloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/958-dr.-mesed-musayeva.webp" alt="Dr. Mesed Musayeva">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-mesed-musayeva">Dr. Mesed Musayeva</a></h4>
+                    <h6 class="designation mb-0">Cərrah Mama-Ginekoloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/10-dr.-s-id-midova.webp" alt="Dr. Səidə Əmidova">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-s-id-midova">Dr. Səidə Əmidova</a></h4>
+                    <h6 class="designation mb-0">Dermatoloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/684-dr.-z-ri-mirz--pur.webp" alt="Dr. Zəri Mirzə-Pur">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-z-ri-mirz--pur">Dr. Zəri Mirzə-Pur</a></h4>
+                    <h6 class="designation mb-0">Dermatoloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/441-dr.-konul-zohrabova.webp" alt="Dr. Könül Zöhrabova">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-konul-zohrabova">Dr. Könül Zöhrabova</a></h4>
+                    <h6 class="designation mb-0">Revmatoloq-Artroloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/856-dr.-az-r-r-himli.webp" alt="Dr. Azər Rəhimli">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-az-r-r-himli">Dr. Azər Rəhimli</a></h4>
+                    <h6 class="designation mb-0">LOR-Cərrah</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/740-dr.-zahid-s-f-rov.webp" alt="Dr. Zahid Səfərov">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-zahid-s-f-rov">Dr. Zahid Səfərov</a></h4>
+                    <h6 class="designation mb-0">Ortoped-Travmatoloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/784-dr.-gulnar-liyeva.webp" alt="Dr. Gülnarə Əliyeva">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-gulnar-liyeva">Dr. Gülnarə Əliyeva</a></h4>
+                    <h6 class="designation mb-0">Radioloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/919-dr.-ira-dalivalova.webp" alt="Dr. İra Dalivalova">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-ira-dalivalova">Dr. İra Dalivalova</a></h4>
+                    <h6 class="designation mb-0">Travmatoloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/364-dr.-gular-m-mm-dova.webp" alt="Dr. Gülarə Məmmədova">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-gular-mammadova">Dr. Gülarə Məmmədova</a></h4>
+                    <h6 class="designation mb-0">Nevroloq-Neyrofizioloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/701-dr.-ibrahim-qallacov.webp" alt="Dr. İbrahim Qallacov">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr.-ibrahim-qallacov">Dr. İbrahim Qallacov</a></h4>
+                    <h6 class="designation mb-0">Stomatoloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/140-dr.-vidadi-h-s-nov.webp" alt="Dr. Vidadi Həsənov">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr.-vidadi-h-s-nov">Dr. Vidadi Həsənov</a></h4>
+                    <h6 class="designation mb-0">Anestezioloq-Reanimatoloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/466-dr.-k-mal-liyeva.webp" alt="Dr. Kəmalə Əliyeva ">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr.-k-mal-liyeva">Dr. Kəmalə Əliyeva </a></h4>
+                    <h6 class="designation mb-0">Həkim-Laborant</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/641-dr.-lal-v-liyeva.webp" alt="Dr. Lalə Vəliyeva">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-lal-v-liyeva">Dr. Lalə Vəliyeva</a></h4>
+                    <h6 class="designation mb-0">Qastroenteroloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/375-dr.-ulviyy-talibova.webp" alt="Dr. Ülviyyə Talıbova">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-ulviyy-talibova">Dr. Ülviyyə Talıbova</a></h4>
+                    <h6 class="designation mb-0">Qastroenteroloq, Manometriya üzrə mütəxəssis </h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/839-dr.-t-hmin-lim-d-tli.webp" alt="Dr. Təhminə Əlimədətli">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-t-hmin-lim-d-tli">Dr. Təhminə Əlimədətli</a></h4>
+                    <h6 class="designation mb-0">Radioloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/491-dr.-m-mm-d-n-biyev.webp" alt="Uzman Dr. Məmməd Nəbiyev">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="uzman-dr-m-mm-d-n-biyev">Uzman Dr. Məmməd Nəbiyev</a></h4>
+                    <h6 class="designation mb-0">Qulaq-Burun-Boğaz və Baş-Boyun Cərrahı</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/827-dr.-elmira-huseynova.webp" alt="Dr. Elmira Hüseynova">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-elmira-huseynova">Dr. Elmira Hüseynova</a></h4>
+                    <h6 class="designation mb-0">Pediatr-Nevroloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/31-dr.-c-mil-f-ndiyeva.webp" alt="Dr. Cəmilə Əfəndiyeva">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr.-c-mil-f-ndiyeva">Dr. Cəmilə Əfəndiyeva</a></h4>
+                    <h6 class="designation mb-0">Radioloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/328-dr.-sevinc-abasova.webp" alt="Dr. Sevinc Abasova">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-sevinc-abasova">Dr. Sevinc Abasova</a></h4>
+                    <h6 class="designation mb-0">Terapevt-Heapatoloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/170-dr.-xaqani-quliyev.webp" alt="Dr. Xaqani Quliyev">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-xaqani-quliyev">Dr. Xaqani Quliyev</a></h4>
+                    <h6 class="designation mb-0">Nevroloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/862-dr.-s-fay-h-s-nova.webp" alt="Dr. Şəfayə Həsənova">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-s-fay-h-s-nova">Dr. Şəfayə Həsənova</a></h4>
+                    <h6 class="designation mb-0">Həkim-Laborant</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/480-dr.-k-mal-p-nahova.webp" alt="Dr. Kəmalə Pənahova">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-k-mal-p-nahova">Dr. Kəmalə Pənahova</a></h4>
+                    <h6 class="designation mb-0">Həkim-Laborant</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/948-dr.-nafis-mut-llimov.webp" alt="Dr. Nafis Mütəllimov">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-nafis-mut-llimov">Dr. Nafis Mütəllimov</a></h4>
+                    <h6 class="designation mb-0">Nevroloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/83-dr.-niluf-r-salmanova.webp" alt="Dr. Nilüfər Salmanova">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-niluf-r-salmanova">Dr. Nilüfər Salmanova</a></h4>
+                    <h6 class="designation mb-0">Nevroloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/961-dr.-z-kiyy-huseynova.webp" alt="Dr. Zəkiyyə Hüseynova">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-z-kiyy-huseynova">Dr. Zəkiyyə Hüseynova</a></h4>
+                    <h6 class="designation mb-0">Cərrah Mama-Ginekoloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/511-dr.-nusab-quliyeva.webp" alt="Dr. Nüşabə Quliyeva">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-nusab-quliyeva">Dr. Nüşabə Quliyeva</a></h4>
+                    <h6 class="designation mb-0">Pediatr</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/439-dr.-ayt-n-c-brayilova.webp" alt="Dr. Aytən Cəbrayılova">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-ayt-n-c-brayilova">Dr. Aytən Cəbrayılova</a></h4>
+                    <h6 class="designation mb-0">Ümumi-Cərrah, Proktoloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/725-dr.-sg-r-xudiyev.webp" alt="Dr. Əsgər Xudiyev">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-sg-r-xudiyev">Dr. Əsgər Xudiyev</a></h4>
+                    <h6 class="designation mb-0">Androloq-Dermatoveneroloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/209-dr.-vuqar-mirz-liyev.webp" alt="Dr. Vüqar Mirzəliyev">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr.-vuqar-mirz-liyev">Dr. Vüqar Mirzəliyev</a></h4>
+                    <h6 class="designation mb-0">Neyrocərrah</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/945-dr.-qoc-li-nagiyev.webp" alt="Dr. Qoçəli Nağıyev">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr.-qoc-li-nagiyev">Dr. Qoçəli Nağıyev</a></h4>
+                    <h6 class="designation mb-0">Terapevt</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/384-dr.-k-mal-r-himova.webp" alt="Dr. Kəmalə Rəhimova">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-kamala-rahimova">Dr. Kəmalə Rəhimova</a></h4>
+                    <h6 class="designation mb-0">Mammoloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/381-dr.-s-id-pasayeva.webp" alt="Dr. Səidə Paşayeva">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-s-id-pasayeva">Dr. Səidə Paşayeva</a></h4>
+                    <h6 class="designation mb-0">Uroloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/753-dr.-s-hla-huseynova.webp" alt="Dr. Şəhla Hüseynova">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-s-hla-huseynova">Dr. Şəhla Hüseynova</a></h4>
+                    <h6 class="designation mb-0">Endokrinoloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/323-dr.-liabbas-ilyasov.webp" alt="Dr. Əliabbas İlyasov">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-liabbas-ilyasov">Dr. Əliabbas İlyasov</a></h4>
+                    <h6 class="designation mb-0">Uroloq-Androloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/537-dr.-sahv-l-d-m-mm-dov.webp" alt="Dr. Şahvələd Məmmədov">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-sahv-l-d-m-mm-dov">Dr. Şahvələd Məmmədov</a></h4>
+                    <h6 class="designation mb-0">Allerqoloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/642-dr.-etibar-n-sibov.webp" alt="Dr. Etibar Nəsibov">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-etibar-n-sibov">Dr. Etibar Nəsibov</a></h4>
+                    <h6 class="designation mb-0">Radioloq-USM Həkimi </h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/523-dr.-m-h-mm-d-qasimov.webp" alt="Dr. Məhəmməd Qasımov">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr.-m-h-mm-d-qasimov">Dr. Məhəmməd Qasımov</a></h4>
+                    <h6 class="designation mb-0">Nevroloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/247-dr.-t-rxan-yusifov.webp" alt="Dr. Tərxan Yusifov">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-t-rxan-yusifov">Dr. Tərxan Yusifov</a></h4>
+                    <h6 class="designation mb-0">Ümumi Cərrah</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/740-dr.-irad-h-s-nova.webp" alt="Dr. İradə Həsənova">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-irad-h-s-nova">Dr. İradə Həsənova</a></h4>
+                    <h6 class="designation mb-0">Radioloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/24-dr.-leyla-seyidova.webp" alt="Dr. Leyla Seyidova">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-leyla-seyidova">Dr. Leyla Seyidova</a></h4>
+                    <h6 class="designation mb-0">Pediatr</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/392-dr.-dilar-isg-nd-rova.webp" alt="Dr. Dilarə İsgəndərova">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr-dilar-isg-nd-rova">Dr. Dilarə İsgəndərova</a></h4>
+                    <h6 class="designation mb-0">Endokrinoloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/862-dr.-milana-rizaxanova.webp" alt="Dr. Milana Rizaxanova">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr.-milana-rizaxanova">Dr. Milana Rizaxanova</a></h4>
+                    <h6 class="designation mb-0">Fleboloq</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                        <div class="col-md-6 col-lg-6 col-xl-3">
+              <div class="team-item mb-30">
+                <div class="team-thumb">
+                  <img class="w-100" src="resimler/585-dr.-hafiz-orucova.webp" alt="Dr. Hafizə Orucova">
+                  
+                </div>
+                <div class="team-content">
+                  <div class="team-information">
+                    <h4 class="team-name"><a href="dr.-hafiz-orucova">Dr. Hafizə Orucova</a></h4>
+                    <h6 class="designation mb-0">Pediatr</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+                      </div>
+        </div>
+      </div>
+      <div class="tm-floating-objects">
+        <span class="floating-object-1 tm-animation-floating" data-tm-bg-img="images/photos/shape4.png" data-tm-opacity="0.2" data-tm-width="161" data-tm-height="189" data-tm-top="15%"></span>
+        <span class="floating-object-2 tm-animation-spin" data-tm-bg-img="images/photos/shape2.png" data-tm-opacity="0.2" data-tm-width="204" data-tm-height="199" data-tm-top="65%"></span>
+      </div>
+    </section><section class="bg-no-repeat bg-img-right" data-tm-bg-img="images/photos/bg-shape2.png" style="display:none;">
+      <div class="container pb-90 pb-lg-60">
+        <div class="section-title">
+          <div class="row justify-content-center">
+            <div class="col-md-8">
+              <div class="tm-sc-section-title section-title text-center mb-60">
+                <div class="title-wrapper">
+         
+                  <h2 class="title">Pasient rəyləri</h2>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="section-content">
+          <div class="row">
+                          <div class="col-md-6 col-lg-4">
+              <div class="tm-sc-testimonials testimonials-style-current-theme mb-30">
+                <div class="tm-testimonial">
+                  <div class="testimonial-text-holder">
+                    <div class="author-text"><p>&quot;Mən Yardımlı rayonu &Ccedil;ay&uuml;z&uuml; kənd sakini Rzayev Yaşılxan Davud oğlu Diaqnoz Tibb Mərkəzinin Baş Həkimi Ələddin Cabbarov Cənablarına və m&uuml;alicə həkimlərimə dərin minnətdarlığımı bildirirəm.</p>
+
+<p>Uzun m&uuml;ddət idi ki, mədə-bağırsaq sistemindən və dəri xəstəliyindən əziyyət &ccedil;əkirdim. Diaqnoz Tibb Mərkəzinin baş həkimin m&uuml;alicə işləri &uuml;zrə m&uuml;avini, terapevt-hepatoloq Tofiq Əkbərov Şahbaz oğluna m&uuml;raciət etdim, təcili b&uuml;t&uuml;n m&uuml;ayinələri edib, m&uuml;alicəyə başladı. Məni dəri xəstəliyimə g&ouml;rə Diaqnoz Tibb Mərkəzinin 108-ci otağında əyləşən dermatoloq Səidə xanım Əmirovanın yanına g&ouml;ndərdi. &Ccedil;ox sağ olsun Səidə xanım ilk baxışdan mənim diaqnozumu m&uuml;əyyənləşdirdi. İşində peşəkar olan dəyərli həkimlərin d&uuml;zg&uuml;n təyin etdiyi diaqnoz və uğurlu m&uuml;alicələri nəticəsində mən sağaldım. İndi &ouml;z&uuml;m&uuml; yaxşı hiss edirəm. &Ccedil;ox sağ olun ki, belə bacarıqlı, təcr&uuml;bəli və insani keyfiyyətləri olan həkimləriniz var.</p>
+
+<p>H&ouml;rmətli Ələddin Cabbarov, &ouml;lkəmizdə səhiyyənin inkişafı və tərəqqisi naminə g&ouml;rd&uuml;y&uuml;n&uuml;z b&uuml;t&uuml;n işlərdə nəsibiniz hər zaman uğur olsun.</p>
+
+<p>Allah Sizləri qorusun, həmişə var olun.</p>
+
+<p>H&ouml;rmətlə,</p>
+
+<p>Rzayev Yaşılxan Davud oğlu&quot;.&nbsp;</p>
+</div>
+                    <div class="icon">
+                      <img class="icon-img" src="images/icon/testi01.png" alt="Image">
+                    </div>
+                  </div>
+                  <div class="testimonial-author-details">
+                    <div class="testimonial-image-holder">
+                      <div class="author-thumb"> <img width="57" height="57" src="resimler/980-pasiyent-m-mnunlugu.webp" class="" alt="Image"></div>
+                    </div>
+                    <div class="testimonial-author-info-holder">
+                      <h4 class="name">Pasiyent Məmnunluğu</h4>
+                      <span class="job-position"></span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+                      </div>
+        </div>
+      </div>
+    </section><section data-tm-bg-color="#f7f7f7">
+      <div class="container pt-lg-90 pb-lg-60">
+        <div class="section-title">
+          <div class="row">
+            <div class="col-md-8">
+              <div class="tm-sc tm-sc-section-title section-title">
+                <div class="title-wrapper mb-0">
+                 
+                  <h2 class="mt-0 mb-0">Yeniliklər</h2>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+        <div class="section-content">
+          <div class="row">
+                        <div class="col-md-6 col-lg-6 tm-animation move-up2">
+              <div class="tm-sc-blog tm-mediku tm-sc-blog-masonry blog-style1-current-theme mb-lg-30">
+                <article class="post type-post status-publish format-standard has-post-thumbnail">
+                  <div class="entry-header">
+                    <div class="post-thumb lightgallery-lightbox">
+                      <div class="post-thumb-inner">
+                        <div class="thumb border-radius-0">
+                          <img class="img-fullwidth" src="resimler/549-kisil-rd-androloji-v-cinsi-probleml-rin-n-muasir-mualic-metodu-diaqnoz-tibb-m-rk-zind.webp" alt="Kişilərdə androloji və cinsi problemlərin ən müasir müalicə metodu Diaqnoz Tibb Mərkəzində!">
+                          <div class="date bg-theme-colored1 text-white text-center text-uppercase font-size-12 letter-space-1">07.05.2024</div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="entry-content">
+                    <h4 class="entry-title"><a href="kisil-rd-androloji-v-cinsi-probleml-rin-n-muasir-mualic-metodu-diaqnoz-tibb-m-rk-zind" rel="bookmark">Kişilərdə androloji və cinsi problemlərin ən müasir müalicə metodu Diaqnoz Tibb Mərkəzində!</a></h4>
+                    <p class="mb-0">Zərbə-dalğa terapiyası </p>
+                    <div class="clearfix"></div>
+                  </div>
+                </article>
+              </div>
+            </div>
+                        <div class="col-md-6 col-lg-6 tm-animation move-up2">
+              <div class="tm-sc-blog tm-mediku tm-sc-blog-masonry blog-style1-current-theme mb-lg-30">
+                <article class="post type-post status-publish format-standard has-post-thumbnail">
+                  <div class="entry-header">
+                    <div class="post-thumb lightgallery-lightbox">
+                      <div class="post-thumb-inner">
+                        <div class="thumb border-radius-0">
+                          <img class="img-fullwidth" src="resimler/410-evd-diaqnoz.webp" alt="EVDƏ DİAQNOZ">
+                          <div class="date bg-theme-colored1 text-white text-center text-uppercase font-size-12 letter-space-1">07.05.2024</div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="entry-content">
+                    <h4 class="entry-title"><a href="evd-diaqnoz" rel="bookmark">EVDƏ DİAQNOZ</a></h4>
+                    <p class="mb-0">EVDƏ TİBBİ XİDMƏT </p>
+                    <div class="clearfix"></div>
+                  </div>
+                </article>
+              </div>
+            </div>
+                      </div>
+        </div>
+      </div>
+    </section>
+    
+
+    
+
+
+    
+
+
+  </div>
+ 	<style>
+    .whatsapp {position: fixed;left: 15px;bottom: 15px;transition: all .5s ease-in-out;z-index: 999;}
+.whatsapp a {height: 50px;width: 50px;border-radius: 50%;overflow: hidden;box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);font-size: 28px;display: block;text-align: center;line-height: 50px;color: white;background: #4dc247;}
+.whatsapp .tooltiptext {visibility: hidden;width: 120px;background-color: black;color: #fff;text-align: center;border-radius: 6px;padding: 5px 0;position: absolute;z-index: 1;line-height: normal;font-size: 15px;top: 13px;left: 105%;height: auto;}
+.whatsapp:hover a {transform: rotate(45deg);-webkit-transform: rotate(45deg);}.whatsapp:hover .tooltiptext {visibility: visible;}
+.telefon {position: fixed;left: 15px;bottom: 75px;transition: all .5s ease-in-out;z-index: 999;}
+.telefon a {height: 50px;width: 50px;border-radius: 50%;overflow: hidden;box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);font-size: 28px;display: block;text-align: center;line-height: 50px;color: white;background: #337ab7;}
+.telefon .tooltiptext {visibility: hidden;width: 120px;background-color: black;color: #fff;text-align: center;border-radius: 6px;padding: 5px 0;position: absolute;z-index: 1;line-height: normal;font-size: 15px;top: 13px;left: 105%;height: auto;}
+.telefon:hover a {transform: rotate(45deg);-webkit-transform: rotate(45deg);}
+.telefon:hover .tooltiptext {visibility: visible;}
+
+.telefon {
+right: 15px !important;
+left: unset;
+bottom: 300px;
+}
+
+.whatsapp {
+right: 15px !important;
+left: unset;
+bottom: 240px;
+}
+
+.telefon .tooltiptext, .whatsapp .tooltiptext {
+right: 105%;
+left: unset;
+}
+
+.telegram {
+position: fixed;
+right: 15px;
+bottom: 180px;
+transition: all .5s ease-in-out;
+z-index: 999;
+}
+
+.telegram a {
+height: 50px;
+width: 50px;
+border-radius: 50%;
+overflow: hidden;
+box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
+font-size: 28px;
+display: block;
+text-align: center;
+line-height: 50px;
+color: white;
+background: #27A7E5;
+}
+
+.telegram .tooltiptext {
+visibility: hidden;
+width: 100px;
+background-color: black;
+color: #fff;
+text-align: center;
+border-radius: 6px;
+padding: 5px 0;
+position: absolute;
+z-index: 1;
+line-height: normal;
+font-size: 15px;
+top: 13px;
+right: 105%;
+height: auto;
+}
+
+.telegram:hover a {
+transform: rotate(45deg);
+-webkit-transform: rotate(45deg);
+}
+
+.telegram:hover .tooltiptext {
+visibility: visible;
+}
+
+.instagram {
+position: fixed;
+right: 15px;
+bottom: 120px;
+transition: all .5s ease-in-out;
+z-index: 999;
+}
+
+.instagram a {
+height: 50px;
+width: 50px;
+border-radius: 50%;
+overflow: hidden;
+box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
+font-size: 28px;
+display: block;
+text-align: center;
+line-height: 50px;
+color: white;
+background: #fd3a67;
+}
+
+.instagram .tooltiptext {
+visibility: hidden;
+width: 100px;
+background-color: black;
+color: #fff;
+text-align: center;
+border-radius: 6px;
+padding: 5px 0;
+position: absolute;
+z-index: 1;
+line-height: normal;
+font-size: 15px;
+top: 13px;
+right: 105%;
+height: auto;}
+</style>
+
+<div class="telefon">
+	<a href="tel:(+99455)-754-43-03" title="Telefon" alt="Telefon"><i class="fa fa-phone"></i></a>
+	<span class="tooltiptext">Telefon</span>
+</div>
+
+<div class="whatsapp">
+	<a href="https://api.whatsapp.com/send?phone=" target="_blank" title="WhatsApp" alt="WhatsApp"><i class="fab fa-whatsapp"></i></a>
+	<span class="tooltiptext">WhatsApp</span>
+</div>
+<div class="instagram">
+	<a href="https://www.instagram.com/diaqnoztibbmerkezi/" target="_blank" title="instagram" alt="instagram"><i class="fab fa-instagram"></i></a>
+	<span class="tooltiptext">İnstagram</span>
+</div>
+
+<div class="telegram">
+	<a href="" target="_blank" title="Telegram" alt="Telegram"><i class="fab fa-telegram"></i></a>
+	<span class="tooltiptext">Telegram</span>
+</div>
+
+<footer id="footer" class="footer mediku-footer bg-theme-colored2" data-tm-bg-img="images/footer-bg.png">
+    <div class="footer-widget-area">
+      <div class="container pt-90 pb-20">
+        <div class="row">
+        
+          <div class="col-md-6 col-lg-6 col-xl-3">
+            <div class="widget widget-blog-list clearfix mb-0 mt-lg-40">
+              <h4 class="widget-title">Son yazılar</h4>
+              <div class="tm-widget tm-widget-blog-list ">
+                           <article class="post mb-30 clearfix">
+                  <a class="post-thumb" href="kisil-rd-androloji-v-cinsi-probleml-rin-n-muasir-mualic-metodu-diaqnoz-tibb-m-rk-zind">
+                    <img src="resimler/549-kisil-rd-androloji-v-cinsi-probleml-rin-n-muasir-mualic-metodu-diaqnoz-tibb-m-rk-zind.webp" class="" alt="Kişilərdə androloji və cinsi problemlərin ən müasir müalicə metodu Diaqnoz Tibb Mərkəzində!">
+                  </a>
+                  <div class="post-right">
+                    <div class="post-date">
+                      <span class="entry-date text-theme-colored1">07.05.2024</span>
+                    </div>
+                    <h6 class="post-title"> <a class="text-white" href="kisil-rd-androloji-v-cinsi-probleml-rin-n-muasir-mualic-metodu-diaqnoz-tibb-m-rk-zind">Kişilərdə androloji və cinsi problemlərin ən müasir müalicə metodu Diaqnoz Tibb Mərkəzində!</a> </h6>
+                  </div>
+                </article>
+                
+                           <article class="post mb-30 clearfix">
+                  <a class="post-thumb" href="evd-diaqnoz">
+                    <img src="resimler/410-evd-diaqnoz.webp" class="" alt="EVDƏ DİAQNOZ">
+                  </a>
+                  <div class="post-right">
+                    <div class="post-date">
+                      <span class="entry-date text-theme-colored1">07.05.2024</span>
+                    </div>
+                    <h6 class="post-title"> <a class="text-white" href="evd-diaqnoz">EVDƏ DİAQNOZ</a> </h6>
+                  </div>
+                </article>
+                
+                         </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-6 col-xl-3">
+            
+            
+            <div class="widget widget-contact clearfix mb-0 mt-lg-40">
+              <h4 class="widget-title">Əlaqə</h4>
+              <div class="tm-widget tm-widget-contact">
+                <ul class="contact-info">
+            
+                  
+                  <li class="contact-phone">Mob.: (+99455)-754-43-03</li>
+         
+               <li class="contact-phone">Tel.: </i>&ensp; 904  
+                </ul>
+              
+              </div>
+            </div>
+            
+            
+          </div>
+          <div class="col-md-6 col-lg-6 col-xl-3">
+             
+             
+             <div class="widget widget-contact clearfix mb-0 mt-lg-40">
+              <h4 class="widget-title">Ünvan</h4>
+              <div class="tm-widget tm-widget-contact">
+                <ul class="contact-info">
+                  <li class="contact-address"><i class="fas fa-map-marked-alt font-icon sm-display-block "></i> &ensp; Əhmədli qəs., Sarayevo küç., 38C</li>
+               
+                  <li class="contact-email"><i class="fas fa-envelope font-icon sm-display-block"></i>&ensp; info@diaqnoz.az</li>
+                  
+    
+                </ul>
+              
+              </div>
+            </div>
+            
+       
+             
+          </div>   
+          
+          
+          
+          
+           <div class="col-md-6 col-lg-6 col-xl-3">
+             
+             
+             <div class="widget widget-contact clearfix mb-0 mt-lg-40">
+              <h4 class="widget-title">Sosial media səhifələrimiz</h4>
+              <div class="tm-widget tm-widget-contact">
+              <ul class="styled-icons icon-dark icon-theme-colored1 icon-circled clearfix">
+                <li><a class="social-link" href="https://www.facebook.com/diaqnoztibbmerkezi"><i class="fab fa-facebook"></i></a></li>
+                     <li><a class="social-link" href="https://www.instagram.com/diaqnoztibbmerkezi/"><i class="fab fa-instagram"></i></a></li>
+                <li><a class="social-link" href="https://www.tiktok.com/@diaqnoztibbmerkezi?"><i class="fab fa-tiktok"></i></a></li>
+                <li><a class="social-link" href="https://www.youtube.com/@sedaismailova5495"><i class="fab fa-youtube"></i></a></li>
+              </ul>
+
+              </div>
+            </div>
+            
+       
+             
+          </div> 
+          
+          
+          
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <div class="container footer-bottom-border-top">
+          <div class="row justify-content-center pt-20 pb-20">
+            <div class="col-lg-8">
+             
+                <div class="footer-paragraph text-center">
+       Copyright @ 2024 Diaqnoz Tibb Mərkəzi
+              </div>
+             
+             
+              
+              
+              </br>
+              
+              
+              
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>  
+  <a class="scrollToTop" href="#"><i class="fa fa-angle-up"></i></a>
+</div>
+
+<script src="js/custom.js"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-W8R80VGECW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-W8R80VGECW');
+</script></body>
+</html>
