@@ -9,6 +9,8 @@
     <style>
       body {
         padding-top: 56px; /* Ajusta el padding del cuerpo para compensar la altura del navbar fijo */
+
+        /* nueva rama para modificaciones */
       }
     </style> 
 </head>
